@@ -47,6 +47,8 @@ createMenuItemEl(
   '$14'
 );
 
+createMenuItemEl('Waffles', 'Topped with fresh berries', '$10');
+
 createMenuItemEl('Mimosa', 'Champagne and orange juice', '$10');
 
 createMenuItemEl(
